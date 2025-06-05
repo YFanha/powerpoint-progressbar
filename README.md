@@ -28,4 +28,5 @@ automatically removed.
 ## Snapshot
 
 ![Snapshot of the interface](https://github.com/eric-guerin/powerpoint-progressbar/raw/master/snapshot.png "Snapshot")
+![Snapshot of the interface](https://github.com/eric-guerin/powerpoint-progressbar/raw/master/snapshot.png "Snapshot")
 
