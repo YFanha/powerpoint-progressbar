@@ -26,8 +26,8 @@ Sub AutoSections()
     width = ActivePresentation.PageSetup.SlideWidth * 0.9
     Dim leftPos As Single
     leftPos = (ActivePresentation.PageSetup.SlideWidth - width) / 2 ' Centered position
-    'leftPos = 75
     topPos = 20
+    'topPos = 525 ' Adjusted for bottom position
 
 
     With ActivePresentation

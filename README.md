@@ -25,8 +25,22 @@ the code in it. Then, each time you want to update the progress bar, just
 execute it. If a progress bar has already been inserted, it will be 
 automatically removed.
 
+### Change position
+You can adjust vertical position by editing this value
+![topPos variable](assets/edit-position.png)
+
 ## Snapshot
+### Default
+![Snapshot of the interface](assets/snapshot.png)
 
-![Snapshot of the interface](https://github.com/eric-guerin/powerpoint-progressbar/raw/master/snapshot.png "Snapshot")
-![Snapshot of the interface](https://github.com/eric-guerin/powerpoint-progressbar/raw/master/snapshot.png "Snapshot")
+### No-title - Top
+```topPos = 525```
+![Snapshot - Top position](assets/topPos-Top.png)
 
+### No-title - Bottom
+```topPos = 20```
+![Snapshot - Top position](assets/topPos-Bottom.png)
+
+
+# Source
+Forked from [eric-guerin/powerpoint-progressbar](https://github.com/eric-guerin/powerpoint-progressbar)
